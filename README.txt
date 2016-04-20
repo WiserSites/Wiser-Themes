@@ -1,2 +1,2 @@
 # wiserthemes
-Wiser Themes - Wiser Sites Parent Themes
+Wiser Themes - Wiser Sites Parent Theme
